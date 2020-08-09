@@ -23,6 +23,7 @@ I feel like dealt with the challenge fairly well. However next time I won't be s
 The theory of complex systems is quite useful because it helps model uncertain scenarios so that you can predict possible outcomes. Because of this theory I have learnt how to model complex systems, but also the specific parts to look for in a system. The latter will probably be incredibly useful in my data analytics subject.
 
 
+
 ## Week 2
 **What I learnt this week**
 This week I learnt about creating models of complex systems and the idea of many models. I also learnt about the wisdom hierarchy

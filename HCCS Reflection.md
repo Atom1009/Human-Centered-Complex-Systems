@@ -1,7 +1,7 @@
 # Human Centered Complex Systems Reflection - Pinak Limaye
 
 ## Week 1
-**What I learnt this week**
+**What I learnt this week?**
 This week I learnt about what a complex adaptive system is and real world examples of them. I also learnt about the differences between complex systems and other systems. Furthermore I learnt about emergence and the different system boundaries.
 
 **What do I 'now know' that I did not before?**
@@ -25,7 +25,7 @@ The theory of complex systems is quite useful because it helps model uncertain s
 
 
 ## Week 2
-**What I learnt this week**
+**What I learnt this week?**
 This week I learnt about creating models of complex systems and the idea of many models. I also learnt about the wisdom hierarchy
 
 **What do I 'now know' that I did not before?**
@@ -49,7 +49,7 @@ The many model theory proved to be very useful because it helps in reducing erro
 
 
 ## Week 3
-**What I learnt this week**
+**What I learnt this week?**
 This week I learnt about different behavioural models, signalling and decision trees. I also learnt about the Shapley value and the Last on the Bus model.
 
 **What do I 'now know' that I did not before?**

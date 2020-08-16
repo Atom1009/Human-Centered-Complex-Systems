@@ -45,3 +45,27 @@ I will look at more complex systems so that I can be better at identifying eleme
 
 **What theory proved to be useful and why? What have I learnt from this?**
 The many model theory proved to be very useful because it helps in reducing error. It also helps with my data analytics course which requires me to build a model to predict things from chaotic data. And I feel like this theory will be incredibly useful in helping with that. I have learnt that using many models is useful in accuracy.
+
+
+
+## Week 3
+**What I learnt this week**
+This week I learnt about different behavioural models, signalling and decision trees. I also learnt about the Shapley value and the Last on the Bus model.
+
+**What do I 'now know' that I did not before?**
+I now know about the shapley value, signalling and the three behavioural models (rational, behavioural, rule-based). I already knew about decision trees as I had learnt about it in data analytics. I learnt about the Last on the Bus model too, but I don't really see why I would use that model over the shapley value.
+
+**What insights have I gained?**
+I have gained insights into the different ways a person can think, i.e. rational, behavioural and rule-based. Knowledge of these models helps analyze different social situations or just simple decision making. I also realised that different people can be more on the rational side or on the behavioural side which makes these models about as useful as each other. Rule-based model seems the most useful to me because everyone follows a general set of rules when it comes to decision making. Things like how to act in public or treat other people is far more easily modeled by a rule-based model than it is by the other two. I have also gained insight into the shapely value and how it is used. Also the multiple examples helped me to see how I would go about fitting other scenarios into a shapley value.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**
+I have realised the subject's strength when it comes to my data analytics course. Because things like decision trees, the shapely value and the idea of systems fits really well with my data analytics subjects. It has also been useful in making me think about my previous projects in new ways. Most notably it has made me think about my neural network again. Because I was wondering how I should distribute the error in a prediction as change accros the weights, the shapley value seems perfect for that.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**
+I didn't have much trouble understanding this weeks models. The only thing I am a bit confused about is how I would use Last on the Bus or signalling models.
+
+**What would I do better next time and with what anticipated results?**
+I am not sure how to improve upon my troubles this week because my troubles stem from me not fully understanding where I would use something. I think that I will eventually come across a situation where it is useful as long as I keep doing things.
+
+**What theory proved to be useful and why? What have I learnt from this?**
+Shapley value proved to be very useful because it helps out with neural networks. Although I haven't placed it in a neural network yet, it seems very useful in it. I have learnt that the Shapley value is a very useful model and that it could potentially be used in neural nets.

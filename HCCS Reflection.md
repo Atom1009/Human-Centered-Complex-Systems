@@ -91,5 +91,5 @@ I didn't have much trouble understanding this weeks models. Agent based models a
 **What would I do better next time and with what anticipated results?**  
 I am interested in Agent Based Models now and will look into it. This will hep me in my understanding of Agent Based Models and help me in analysing them and making rules for them in the future.
 
-**What theory proved to be useful and why? What have I learnt from this?**
+**What theory proved to be useful and why? What have I learnt from this?**  
 Agent Based Models seem incredibly useful. Because if you can figure out the core set of rules that people run on, you can make a very complex simulation without using too much computational power and make it very simple to understand. This isn't learning something new, but, Agent Based Models help to solidify the idea that complex things can be made from very simple components.

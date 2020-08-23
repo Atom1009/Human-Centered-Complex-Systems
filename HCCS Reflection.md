@@ -69,3 +69,27 @@ I am not sure how to improve upon my troubles this week because my troubles stem
 
 **What theory proved to be useful and why? What have I learnt from this?**  
 Shapley value proved to be very useful because it helps out with neural networks. Although I haven't placed it in a neural network yet, it seems very useful in it. I have learnt that the Shapley value is a very useful model and that it could potentially be used in neural nets.
+
+
+
+## Week 3
+**What I learnt this week?**  
+This week I learnt about the System Dynamic Models, Network Models and Agent Based Models.
+
+**What do I 'now know' that I did not before?**  
+I didn't know about any of the models before. However System Dynamic Models are similar to Finite State Machines which I learned about in programming.
+
+**What insights have I gained?**  
+I have gained insights into the different models I learnt this week. Network models are useful in figuring out the potential impact of an idea or habits. Agent based models look great for figuring out how people may react. Agent based models remind me of Conways Game of Life. This game is on a grid and each square follows 3 simple rules. Each square is impacted by the 9 squares around it, if too many squares around the square are lit up, the square turns off. If too few squares are lit up, the square turns off. But, if enough squares are lit up around an off square, the off square turns on. The interesting thing with this game is that you can have many complex behaviours from these simple rules. So a couple of simple rules can be used to simulate complex behaviour which is Agent Based Models.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+I think that I am fairly good at making random connections between ideas. Like with connecting conways game of life to Agent Based Models or with some projects that I have done in the past. Half the time it probably isn't a proper connection, but you miss all the shots you don't take so I consider it a strength.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+I didn't have much trouble understanding this weeks models. Agent based models are interesting though and I'm interested in the way that you would come up with the rules that an Agent Based Model uses.
+
+**What would I do better next time and with what anticipated results?**  
+I am interested in Agent Based Models now and will look into it. This will hep me in my understanding of Agent Based Models and help me in analysing them and making rules for them in the future.
+
+**What theory proved to be useful and why? What have I learnt from this?**
+Agent Based Models seem incredibly useful. Because if you can figure out the core set of rules that people run on, you can make a very complex simulation without using too much computational power and make it very simple to understand. This isn't learning something new, but, Agent Based Models help to solidify the idea that complex things can be made from very simple components.

@@ -72,7 +72,7 @@ Shapley value proved to be very useful because it helps out with neural networks
 
 
 
-## Week 3
+## Week 4
 **What I learnt this week?**  
 This week I learnt about the System Dynamic Models, Network Models and Agent Based Models.
 
@@ -93,3 +93,27 @@ I am interested in Agent Based Models now and will look into it. This will help 
 
 **What theory proved to be useful and why? What have I learnt from this?**  
 Agent Based Models seem incredibly useful. Because if you can figure out the core set of rules that people run on, you can make a very complex simulation without using too much computational power and make it very simple to understand. This isn't learning something new, but, Agent Based Models help to solidify the idea that complex things can be made from very simple components.
+
+
+
+## Week 5
+**What I learnt this week?**  
+This week I learnt about aggregation of action and different probability distributions. Namely the normal distribution and the log normal distribution. There was also a little bit of discussion into finite state machines.
+
+**What do I 'now know' that I did not before?**  
+I have learned both finite state machines and the normal distribution before in my maths and programming subjects in college. But the log normal distribution is new to me.
+
+**What insights have I gained?**  
+I have mainly gained insights in to the log normal distribution and where it can be applied. I have also gained an additional insight into the network model that was discussed last week, as this distribution is often the effect of the outcome of those types of models. I have also gained additional insights into the world as a whole. Because everything seems to be connected to a logarithmic relationship in some way, either that or an exponential relationship (which is also related to log). Information theory has a logarithmic relationship, pace of life has a logarithmic relationship and so does entropy in physics and also the notes in music. I think that this is because things tend to change in an exponential manner due to things often leading to other things, causing a snowball effect. Even human perception seems to be exponential. We can easily tell if something is twice as loud as something else, but not if we add several decibals. And even stuff like the golden spiral which is found often in nature follows a logarithmic pattern.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+This subject is making me look at the world in new ways and writing these reflections always makes me blow my own mind by trying to consider the possibilities of the concepts that were discussed. Writing these reflections are like a fever dream cause my brain goes hyper trying to find random connections. And that is a one of the strengths of the subject. Not only am I engaged, because of the enjoyment I get out of writing and learning about new models, but it also helps me see tons of new possibilities that I could potentially use one day.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+I didn't have much trouble understanding things again this week. This is mainly because I already knew most of what was discussed. And I didn't have much of an issue understanding the idea of the snowball effect that causes the log norm distribution.
+
+**What would I do better next time and with what anticipated results?**  
+I am interested logarithmic distributions or relationships appearing in nature and different things. So I will read a bit about it out of interest. But I don't need to do much to do better right now because I didn't find things too challenging.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+Log normal distribution proved to be very useful because it models a lot of things in nature. Although normal distributions are also incredibly useful for modelling isolated random events. I learnt about the nature of dependent events and the kinds of distributions they often create.

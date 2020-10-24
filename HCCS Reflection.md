@@ -117,3 +117,75 @@ I am interested logarithmic distributions or relationships appearing in nature a
 
 **What theory proved to be useful and why? What have I learnt from this?**  
 Log normal distribution proved to be very useful because it models a lot of things in nature. Although normal distributions are also incredibly useful for modelling isolated random events. I learnt about the nature of dependent events and the kinds of distributions they often create.
+
+
+
+## Week 6
+**What I learnt this week?**  
+This week I learnt about random walks, broadcast, diffusion and contagion models, markov models and granovetters riot model.
+
+**What do I 'now know' that I did not before?**  
+Markov models are already familiar to me as I have worked with HMMs (Hidden Markov Models) for which I had to research what markov chains are. However random walk models and the spread models are new to me.
+
+**What insights have I gained?**  
+I have gained insights into the random walk model and the spread model. The random walk is especially interesting to me as it builds upon my previous knowledge of markov models and adds spacial awareness to it. It also shows that despite having a greater chance for walking forward, it is far more likely for the drunk man to end up back at 0 than it appears in the governing markov chain. The contagion model is also very interesting to me as it has the possibility of losing followers. This seems far more realistic to me because eventually people get tired of the product or the idea and this could be considered as them becoming immune.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+One of the subjects greatest strengths is its ability to build upon previous things that I have seen. Like how random walks build upon my previous knowledge of markov models. It also helped me realise that you could add distance or a point system into a markov model. I never thought of doing this before.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+I did not struggle much with this week. This is because I have already had previous exposure with the markov model. The granovetter riot model was also discussed earlier.
+
+**What would I do better next time and with what anticipated results?**  
+As I did not struggle much, I do not need to consolidate most of the models covered. However, I do want to make things using the random walk model, I think that I could make a self learning model with random walk. It gives me a similar feeing to the reinforced learning model. My friend created a reinforced learning model for a car which was like a 2D random walk that changed its probablities per run. I feel like I can combine the two models in some way.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+Random walk seems to be the most useful model for me. This is because I feel like it could be worked into reinforced learning. And it also helps build upon the idea of how a markov chain can work in the longterm if there was a points system attached to it. Interestingly, the only thing that you can guarantee is the minimum steps you have to take to reach 0 because there is always a chance that everything will fail, which is quite a depressing thought.
+
+
+
+## Week 7
+**What I learnt this week?**  
+This week I learnt about Schelling's segregation model, standing ovation model, coordination games and replicator dynamics.
+
+**What do I 'now know' that I did not before?**  
+This week the new things I learnt were the Schellings segregation model, coordination games and the replicator dynamics model. 
+
+**What insights have I gained?**  
+The Schellings segregation model is very interesting to me because it shows that everyone having a small bias towards something causes a big effect. The coordination game model is also very interesting, expecially when it is connected to culture. The idea of how playing a coordination game with multiple people and trying to change your own coordination game to sync it up to other people you have interacted with, is a very nice way of expressing how culture forms and shows the grouping of different people who are close to each other. Combining the segregation model and the coordination game model creates an echo chamber effect where grouping people together with similar biases only strengthens those biases, which seperates them further. The replicator dynamics model is also very interesting because it combines both popularity and effectiveness to predict change in popularity. It takes into account how people often tend to go for what is popular despite its lack of functionality.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+The subject is very good at analysing different human interactions and social phenomena. Like the Schellings model, which explains why alot of cultures tend to clump together. It is also very good for my programming and data analytics subject because alot of ideas covered in this subject are useful in those other subjects. Many model thinking appeared in my data analytics subject this week in the form of ensemble learning methods. Ensemble learning methods use many slightly different models to take a vote on the prediction.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+I found the coordination game model slightly confusing. I am struggling to understand how they are useful and I struggled a bit trying to understand why coordination models are useful to use for modelling culture. Although I understand that now, it took me quite a long time to reach that understanding. Thinking about it for a while helped me understand it.
+
+**What would I do better next time and with what anticipated results?**  
+I do not think that I did too badly this week, although I need to look further into the applications of coordination games because I still cannot think of many possibilities for the pure coordination model. This will help me to understand the implications of this model a little more.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+Schellings segregation model seems to be the most useful because the model provides an output that could be used for map creation. It creates several islands and groupings. Maybe it could also be used to create biomes for genetic algorithms. It also taught me that slight biases in a majority create big effects. This idea helps contextualise the racism issue for me, because everyone has a slight bias. And even if the slight bias is not particularly problematic in a one on one interaction. On the macro scale everyones slight bias creates a big issue.
+
+
+
+## Week 8
+**What I learnt this week?**  
+This week I learnt about Colonel Blotto's Game and the Prisoners Dilemna.
+
+**What do I 'now know' that I did not before?**  
+Both of these models are new to me. Although the Prisoners Dilemna looks like the coordination game from last week.
+
+**What insights have I gained?**  
+I have gained insights into the colonel blotto game and the prisoners dilemna model. The colonel blotto game shows the importance of playing on multiple fronts. That playing a jack of all trades playstyle is better than playing a hyper focussed playstyle. This ideology fits really well in the current day because a while back my data analytics lecturer was talking about how just knowing data analytics will get you a lot less money than knowing how to present along with knowing data analytics. The prisoners dilemna also built upon the coordination game last week because it added in the idea of thinking ahead, that playing multiple games changes the decision that the prisoners make. It also shows that forgiveness and kindness with justified punishment is the most beneficial way to play as it stops you from being exploited but also allows you to return to the norm of being kind.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+This subject randomly pops up in my head while I looking at other things. It has changed how I look at things. I played a game called Deus Ex (great game, highly recommend) recently. In the game there are three potential endings, one is an AI takes control of the population, one is complete anarchy and the third is a governing order like the illuminati. Initially I thought that the illuminati ending was the worst ending because atleast the AI grants proper decision making, while the illuminati can be flawed due to them being human. So if the lack of freedom is concerning then you should go for the anarchy ending because the illuminati restrains freedom aswell, it just keeps the control human. But when thinking about it from a systems perspective, illuminati is the best ending because a good adaptive system requires multiple parts with some kind of order. The AI has maximum order but has only a singular part, only one perspective. Anarchy on the other hand has a billion moving parts and a complete lack of order. The illuminati is a governing order of multiple people. Not so chaotic that it is hard to make use of, but not so singular that it cannot adapt. Systems thinking made me further enjoy the game I was playing and made me think about in a new way.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+I did not struggle much this week. I think the focus on just two models this week really helped solidify the idea of the model and how it works.
+
+**What would I do better next time and with what anticipated results?**  
+As I did not struggle to much this week, I do not need to work to much harder. But the prisoners dilemna and colonel blottos game is interesting so I might look into them a bit more. It may help me come up with some more uses for these models.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+I like the idea behind Colonel Blotto, and I think that it is the most useful idea in the current day and age because it is important to have many skillsets nowadays because there are many people who have the same skills as you, but not everyone has the same set of of skills as you.

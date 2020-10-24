@@ -1,7 +1,7 @@
 # Human Centered Complex Systems Reflection - Pinak Limaye
 
 ## Week 1
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about what a complex adaptive system is and real world examples of them. I also learnt about the differences between complex systems and other systems. Furthermore I learnt about emergence and the different system boundaries.
 
 **What do I 'now know' that I did not before?**  
@@ -25,7 +25,7 @@ The theory of complex systems is quite useful because it helps model uncertain s
 
 
 ## Week 2
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about creating models of complex systems and the idea of many models. I also learnt about the wisdom hierarchy
 
 **What do I 'now know' that I did not before?**  
@@ -49,7 +49,7 @@ The many model theory proved to be very useful because it helps in reducing erro
 
 
 ## Week 3
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about different behavioural models, signalling and decision trees. I also learnt about the Shapley value and the Last on the Bus model.
 
 **What do I 'now know' that I did not before?**  
@@ -73,7 +73,7 @@ Shapley value proved to be very useful because it helps out with neural networks
 
 
 ## Week 4
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about the System Dynamic Models, Network Models and Agent Based Models.
 
 **What do I 'now know' that I did not before?**  
@@ -97,7 +97,7 @@ Agent Based Models seem incredibly useful. Because if you can figure out the cor
 
 
 ## Week 5
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about aggregation of action and different probability distributions. Namely the normal distribution and the log normal distribution. There was also a little bit of discussion into finite state machines.
 
 **What do I 'now know' that I did not before?**  
@@ -121,7 +121,7 @@ Log normal distribution proved to be very useful because it models a lot of thin
 
 
 ## Week 6
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about random walks, broadcast, diffusion and contagion models, markov models and granovetters riot model.
 
 **What do I 'now know' that I did not before?**  
@@ -145,7 +145,7 @@ Random walk seems to be the most useful model for me. This is because I feel lik
 
 
 ## Week 7
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about Schelling's segregation model, standing ovation model, coordination games and replicator dynamics.
 
 **What do I 'now know' that I did not before?**  
@@ -169,7 +169,7 @@ Schellings segregation model seems to be the most useful because the model provi
 
 
 ## Week 8
-**What I learnt this week?**  
+**What have I learnt this week?**  
 This week I learnt about Colonel Blotto's Game and the Prisoners Dilemna.
 
 **What do I 'now know' that I did not before?**  
@@ -189,3 +189,99 @@ As I did not struggle to much this week, I do not need to work to much harder. B
 
 **What theory proved to be useful and why? What have I learnt from this?**  
 I like the idea behind Colonel Blotto, and I think that it is the most useful idea in the current day and age because it is important to have many skillsets nowadays because there are many people who have the same skills as you, but not everyone has the same set of of skills as you.
+
+
+
+## Week 9
+**What have I learnt this week?**  
+I did not learn anything from human centered complex systems this week since we were doing group tasks. But I did learn a bit about e-sports last week because of the assignment. I decided to leave that stuff from last week for today because I was going to be lacking for this week on stuff to write. I will probably lack things for the next two weeks aswell, but this week I will talk about my group experience for last week since I did nothing this week.
+
+**What do I 'now know' that I did not before?**  
+I learnt that e-sports is a thriving market. I initially thought that e-sports would not be impacted by corona, because everything takes place online. But due to corona viewership has dropped. This is because people enjoy going to the events and the atmosphere there and that is now gone. I also learnt that league of legends esports is very popular.
+
+**What insights have I gained?**  
+I have gained some insights into league of legends esports.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+I realised that I am terrible at communicating. Last week on friday, I noticed that my group member had not written his section in a proper format, nor had he related it to the things that my other group member and I had talked about earlier. Furthermore there were no solid explanations on how the models would actually be used. I should have told him that I was dissatisfied with his work. Instead I sat down and got to work trying to fix things and I said nothing. I did not do a particularly great job and I should have asked him to clarify certain bits of his work, that would probably have helped. But instead I got angry and fixed it myself.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+The challenge was explained above. I handled it poorly.
+
+**What would I do better next time and with what anticipated results?**  
+I don't know how I can improve my ability to communicate. I often struggle with speaking my mind because then the outcome would be my responsibility. The way I handled this situation was to silently make my changes to it and keep my head down so that I could blame any issues on him. I don't know why I did that and I am not sure how I can fix that. I will try to speak my mind next time.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+This one doesn't apply this week.
+
+
+
+## Week 10
+**What have I learnt this week?**  
+Nothing. We did group tasks.
+
+**What do I 'now know' that I did not before?**  
+I did not learn anything new.
+
+**What insights have I gained?**  
+None other than realising that my group members are willing to listen to me and are friendly.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+This subject is getting me to work with people, which is something I try to do as little as possible. I am not good at working with others, so its good that this subject is making me do that. In my other subject my group member disappeared. So it is good that I can get that experience here.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+A challenge that appeared was getting my team to start designing some models, and I was able to talk with them about it. We decided that we were going to start working on designing the models and divided up the models for each of us to design something. I also helped set up git and jupyterlab on my team members desktop. The Jupyterlab setup didn't work though, I am not sure why.
+
+**What would I do better next time and with what anticipated results?**  
+I am not sure how to do better next time because I don't feel like I did anything bad this time. But I would like to know why Joyee's jupyterlab doesn't work, I can't figure it out.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+This one doesn't apply this week.
+
+
+
+## Week 11
+**What have I learnt this week?**  
+I didn't work on any human centered stuff this week. I also don't plan to next week because of other assignments.
+
+**What do I 'now know' that I did not before?**  
+I did not learn anything new.
+
+**What insights have I gained?**  
+None.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+I am terrible at focusing on getting things done. I have left almost everything till last minute and am currently in a scramble to get things done.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+The main challenge is my laziness. And I handle it terribly.
+
+**What would I do better next time and with what anticipated results?**  
+I can say that I will try not to procrastinate next time, but I say that every time and nothing changes. But for the last week and next week as well, I will be working hard to catch up on everything.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+This one doesn't apply this week.
+
+
+
+## Week 12
+**What have I learnt this week?**  
+Nothing
+
+**What do I 'now know' that I did not before?**  
+I did not learn anything new.
+
+**What insights have I gained?**  
+None.
+
+**What are my perceived strengths and weaknesses or the subjects strengths and weaknesses that I have observed?**  
+I had to present and explain my machine learning model this week and the teacher said that my model was quite original. So that is a strength. But that is probably because I knew that all my other ideas were probably taken by others. So I tried running with something that seemed out there. I don't like doing things the same way as others because I feel like I hve copied and that the projects credit can no longer go to me.
+
+**What were the challenges I have encountered/observed and how well did I handle them?**  
+This week was relatively good. I managed to get a handle on everything although I did terribly in a network fundamentals project. I will try not to lag behind since the previous two weeks have been hectic. But everything is good for now, next week I will work on human centered systems stuff again. I still need to design my model.
+
+**What would I do better next time and with what anticipated results?**  
+I will try not to lag behind.
+
+**What theory proved to be useful and why? What have I learnt from this?**  
+This one doesn't apply this week.
